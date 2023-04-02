@@ -10,3 +10,5 @@
     1. 申请OpenAI或其他代理API的API Key，并填入index.js中
     2. 在项目根目录下，执行终端命令 ```npm test```
     3. 项目启动后将因初始话术的设定，ChatGPT会执行一个“列出当前目录下的文件”的测试，然后即可开始你的对话
+- ## 效果演示：
+    https://www.bilibili.com/video/BV1rV4y1Q7Fk
