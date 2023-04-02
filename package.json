@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt_buddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "kouyq",
+  "license": "ISC"
+}
